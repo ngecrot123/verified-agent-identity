@@ -1,4 +1,4 @@
-name: Verify Human Identity did:iden3:billions:main:2VwfvtFvmquat37z1XswdbEaMU8SjVeybcFfcdSPic
+name: did:iden3:billions:main:2VwfvtFvmquat37z1XswdbEaMU8SjVeybcFfcdSPic
 
 on:
   workflow_dispatch:
